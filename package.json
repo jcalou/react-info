@@ -25,5 +25,5 @@
   "scripts": {
     "start": "webpack && ./node_modules/.bin/webpack-dev-server --content-base app/dist --inline --hot",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  }
 }
